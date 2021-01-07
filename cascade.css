@@ -1,0 +1,33 @@
+body { background-color: #464666;
+}
+
+header, footer { background-color: #6397eb;
+    text-align: center;
+}
+
+img {
+    height: 300px;
+    width: 300px;
+    border: solid #34eb58 3px
+}
+
+p { color: #03a062
+}
+
+li {
+    display: inline-block;
+    padding: 40px
+}
+
+h1 { color: #03a062;
+    font-family: cursive, fantasy;
+    font-size: 60px;
+    text-shadow: -10px 10px 0 #464466;
+}
+
+nav { color: black;
+    font-family: fantasy, cursive;
+    font-size: 25px;
+    background-color: blueviolet;
+}
+    
