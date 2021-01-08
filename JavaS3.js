@@ -19,3 +19,10 @@ function guessingGame() {
         }
     }
 }
+
+function message3() {
+    stringVar = prompt('How many stars would you rate this?');
+    for (let i = 0; i <stringVar; i++) {
+        document.write("<img src=https://www.birmingham-rep.co.uk/cmsUploads/show/images/Search_For_The_Second_Star.jpg>");
+    }
+}
